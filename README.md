@@ -1,0 +1,44 @@
+# Confirmation-payement-
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Confirmation Après Paiement</title>
+  <style>
+    body {
+      background-color: #5787f0;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+    }
+
+    a {
+      background-color: #2563eb;
+      color: white;
+      padding: 12px 25px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      font-size: 1.2em;
+      display: inline-block;
+      margin-top: 30px;
+      transition: background-color 0.3s;
+    }
+
+    a:hover {
+      background-color: #1e40af;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Merci pour votre paiement !</h1>
+  <p>Votre inscription est maintenant confirmée.</p>
+  <p>Cliquez sur le bouton ci-dessous pour rejoindre notre groupe WhatsApp privé :</p>
+  <a href="https://chat.whatsapp.com/TON-LIEN-DE-GROUPE" target="_blank" rel="noopener noreferrer">Rejoindre le groupe WhatsApp</a>
+</body>
+
+</html>
